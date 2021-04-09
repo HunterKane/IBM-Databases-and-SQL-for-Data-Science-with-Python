@@ -1,4 +1,4 @@
-# IBM-Real-World-SQL-Assignmnent-
+# IBM-Databases and SQL for Data Science with Python-
 Write and execute SQL queries to solve assignment problems
 
 
